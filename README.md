@@ -1,7 +1,4 @@
-# Artibute:
-- instructor: [Tony]()
-- course: CPNT262
-- Help [Norvillie]()
+# 262-a3
 
 ## explain
 
@@ -36,6 +33,3 @@ signInBtn.addEventListener("click", () => {
     signIn()
 
 ```
-
-
-
