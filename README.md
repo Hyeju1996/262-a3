@@ -33,3 +33,7 @@ signInBtn.addEventListener("click", () => {
     signIn()
 
 ```
+
+**Important**
+
+When you want a try to play this around in user name and password you need to type **G**olden and password has to be **H**arper first letter is always has to be captitalizing. If your not doing that my messge will tell you "WRONG MESSAGE"
